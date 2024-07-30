@@ -2,8 +2,8 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/counter-app-master
+    destination: /home/ubuntu/counterapp-1
 permissions:
-  - object: /home/ubuntu/counter-app-master
+  - object: /home/ubuntu/counterapp-1
     owner: ubuntu
     group: ubuntu
