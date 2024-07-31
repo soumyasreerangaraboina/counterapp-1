@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /build/
     destination: /home/ubuntu/counterapp-1
 permissions:
   - object: /home/ubuntu/counterapp-1
